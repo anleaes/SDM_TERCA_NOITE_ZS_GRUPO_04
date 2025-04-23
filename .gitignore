@@ -1,8 +1,8 @@
 
 /projetoapp/projetoapp/__pycache__/*
-/apps/categories/__pycache__/*
-/apps/categories/migrations/*
-/apps/categories/migrations/__pycache__/*
+projetoapp/apps/categories/__pycache__/*
+projetoapp/apps/categories/migrations/*
+projetoapp/apps/categories/migrations/__pycache__/*
 /apps/projetoapp/__pycache__/*
 /projetoapp/projetoapp/__pycache__/*
 /projetoapp/__pycache__/*
