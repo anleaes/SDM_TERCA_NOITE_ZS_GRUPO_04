@@ -6,3 +6,5 @@ projetoapp/apps/categories/migrations/__pycache__/*
 projetoapp/apps/products/__pycache__/*
 projetoapp/apps/products/migrations/*
 projetoapp/apps/products/migrations/__pycache__/*
+/projetoapp/apps/categories/__pycache__/*
+/projetoapp/apps/products/__pycache__/*
