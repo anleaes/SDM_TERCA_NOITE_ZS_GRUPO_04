@@ -1,14 +1,4 @@
 
 /projetoapp/projetoapp/__pycache__/*
-/apps/categories/__pycache__/*
-/apps/categories/migrations/*
-/apps/categories/migrations/__pycache__/*
-/apps/products/__pycache__/*
-/apps/products/migrations/*
-/apps/products/migrations/__pycache__/*
-/apps/categories/__pycache__/*
-/apps/products/__pycache__/*
-/apps/clients/__pycache__/*
-/apps/clients/migrations/*
 /projetoapp/apps/categories/__pycache__/
 /projetoapp/apps/products/__pycache__/
