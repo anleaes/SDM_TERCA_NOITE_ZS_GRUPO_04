@@ -9,4 +9,5 @@ router.register('', ClientSocialnetworkViewSet, basename='clientsocialnetwork')
 
 urlpatterns = [
     path('', include(router.urls)),
+    
 ]

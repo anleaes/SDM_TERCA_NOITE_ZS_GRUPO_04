@@ -24,8 +24,8 @@ class Client(models.Model):
     def __str__(self):
         return self.first_name
 class ClientSocialNetwork(models.Model):
-    client = models.ForeignKey(Client, on_delete=models.CASCADE)
-    socialNetwork = models.ForeignKey(SocialNetwork, on_delete=models.CASCADE)
+    client = models.ForeignKey(Client, on_delete=models.CASCADE,related_name='social_network_client')
+    socialNetwork = models.ForeignKey(SocialNetwork, on_delete=models.CASCADE,related_name='client_social_network')
 
     class Meta:
         verbose_name = 'Item de Redes Social'
