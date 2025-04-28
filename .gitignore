@@ -8,3 +8,5 @@
 /projetoapp/apps/clients/migrations/
 /projetoapp/apps/socialnetworks/__pycache__/
 /projetoapp/apps/socialnetworks/migrations/
+/projetoapp/apps/clientsocialnetwork/__pycache__/
+/projetoapp/apps/clientsocialnetworks/migrations/
