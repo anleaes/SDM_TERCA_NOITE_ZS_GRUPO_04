@@ -1,3 +1,5 @@
 from django.shortcuts import render
-
+from .models import Client, ClientSocialnetwork
+from rest_framework import viewsets
+from .serializer import ClientSerializer, ClientSocialnetworkSerializer
 # Create your views here.
