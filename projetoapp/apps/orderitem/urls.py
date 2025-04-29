@@ -5,7 +5,7 @@ from .views import OrderItemViewSet
 router = DefaultRouter()
 router.register(r'order-items', OrderItemViewSet, basename='orderitem')
 
-app_name = 'orders'
+app_name = 'orderitem'
 
 urlpatterns = [
     path('', include(router.urls)),
