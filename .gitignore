@@ -12,3 +12,5 @@
 /projetoapp/apps/clientsocialnetworks/migrations/
 /projetoapp/apps/orders/__pycache__/
 /projetoapp/apps/orders/migrations/
+/apps/orderitem/__pycache__/
+/apps/orderitem/migrations/
