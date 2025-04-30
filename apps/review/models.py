@@ -9,3 +9,6 @@ class Review(models.Model):
     rating = models.PositiveIntegerField()
     comment = models.TextField(blank=True)
     created_at = models.DateTimeField(auto_now_add=True)
+
+    def __str__(self):
+        return f"{self.product.name} - {self.rating} estrelas"
