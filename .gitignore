@@ -14,5 +14,8 @@
 /apps/orders/migrations/
 /apps/orderitem/__pycache__/
 /apps/orderitem/migrations/
+/apps/review/__pycache__/
+/apps/review/migrations/
 /apps/payments/__pycache__/
 /apps/payments/migrations/
+
