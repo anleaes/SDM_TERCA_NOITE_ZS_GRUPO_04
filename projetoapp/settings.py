@@ -49,8 +49,6 @@ INSTALLED_APPS = [
     'socialnetworks.apps.SocialnetworksConfig',
     'clientsocialnetwork.apps.ClientsocialnetworkConfig',
     'orders.apps.OrdersConfig',
-    'apps.review',
-
 ]
 
 MIDDLEWARE = [
